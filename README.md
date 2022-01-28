@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnswaryAidan
-- 👀 I’m a software developer at Toyota ( Tanzania )
+- 👀 Software developer at Toyota ( Tanzania )
 - 🌱 I’m currently learning Rust and Dart
 - 📫 answaryaidan@gmail.com
 
