@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnswaryAidan
 - 👀 Software Engineer @Doshtek and @Doshbuy
-- 🌱 I’m currently learning Rust and Dart
+- 🌱 Building For Web, Mobile and IOT
 - 📫 answaryaidan@gmail.com
 
 <!---
