@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnswaryAidan
-- 👀 Software Engineer @Doshtek and @Doshbuy
+- 👀 Software Engineer @Doshtek and @Doshlife
 - 🌱 Building For Web, Mobile and IOT
 - 📫 answaryaidan@gmail.com
 
